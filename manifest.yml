@@ -1,0 +1,6 @@
+---
+applications:
+- name: awslexrest
+  memory: 1024M
+  path: target/awslexrest.jar
+
